@@ -43,6 +43,10 @@ body {
     display: none;
     
   }
+  
+    #form_group{
+    margin-top: 60px;
+  }
 
 }
 
@@ -99,15 +103,4 @@ body {
   visibility: hidden !important;
 }
 
-.footer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: coral;
-  height: 70px;
-  font-style: oblique;
-  width: 100%;
-  z-index: 3;
-  position: absolute;
-  bottom: 0;
-}
+
