@@ -39,11 +39,10 @@ body {
 
 @media (max-width: 768px) {
 
-  /*
   #myvideo video{
     display: none;
     
-  } */
+  } 
   
     #form_group{
     margin-top: 146px;
